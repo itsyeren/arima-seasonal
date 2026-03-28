@@ -1,5 +1,3 @@
-## Mevsimsellik ile ARIMA
+## Seasonality and ARIMA
 
-Ders boyunca, Zaman Serisi modellemek için birçok araçla tanıştınız (ARIMA, mevsimsel ayrıştırma, `.diff()` kullanımı vb.). Bu alıştırmada, bu araçları düzgün bir şekilde anlamak için daha fazla zaman ayıracağız - Hawaii'de aylık bazda CO2 emisyonlarını modellemek için mevsimselliği olan (ve verilerde bazı boşlukları bulunan!) gerçek bir zaman serisini parçalara ayırarak inceleyeceğiz.
-
-Başlamak için `arima_seasonal_intro.ipynb` dosyasını açın!
+You've been introduced to many tools for modeling time series (ARIMA, seasonal decomposition, using `.diff()`, etc.). In this exercise, we'll dedicate more time to properly understanding these tools – we'll examine a real time series with seasonality (and some gaps in the data!) by decomposing it to model monthly CO2 emissions in Hawaii.
